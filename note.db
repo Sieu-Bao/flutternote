@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Tiêu đề ghi chú 1",
+      "content": "Nội dung ghi chú 1",
+      "priority": 1,
+      "color": "0xFFFFFFFF",
+      "createdAt": "2025-04-09T12:00:00Z",
+      "modifiedAt": "2025-04-09T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Tiêu đề ghi chú 2",
+      "content": "Nội dung ghi chú 2",
+      "priority": 2,
+      "color": "0xFFFFFF00",
+      "createdAt": "2025-04-08T12:00:00Z",
+      "modifiedAt": "2025-04-08T12:00:00Z"
+    }
+  ]
+}
